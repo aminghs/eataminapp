@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4955487A1D5784C2BC831D2E044BE592B9FB6ED2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4955487A1D5784C2BC831D2E044BE592B9FB6ED2" : 0,
+    "72C131DFAFDFFE259BBEDF3E159184392895AF45" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0AD40F34-7E73-47DC-B15A-F442F90B3462",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4955487A1D5784C2BC831D2E044BE592B9FB6ED2" : "app.nillicous\/",
+    "72C131DFAFDFFE259BBEDF3E159184392895AF45" : "..\/greenweb\/rahpoyanTradingApp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "app.nillicous",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "app.nillicous.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/alighayeni\/iran-food.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4955487A1D5784C2BC831D2E044BE592B9FB6ED2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.greenweb.ir:8180\/WebDev\/rahpoyantrading.com-mobile.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72C131DFAFDFFE259BBEDF3E159184392895AF45"
+    }
+  ]
+}

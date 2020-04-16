@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="16A323" minimumToolsVersion="Xcode 7.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="CacheImage" syncable="YES">
+        <attribute name="cImageData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="cImageId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Foods" syncable="YES">
+        <attribute name="fDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fShift" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fUnit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="News" syncable="YES">
+        <attribute name="nCreate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nModify" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nRelation" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nRelationName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nSpecial" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nThumb" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nTimeStamp" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="nTitle" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Restaurants" syncable="YES">
+        <attribute name="rAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rImage1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rImage2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rImage3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rModify" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rMorning" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rNight" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rNoon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rRank" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rSpecial" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CacheImage" positionX="-90" positionY="36" width="128" height="75"/>
+        <element name="Foods" positionX="72" positionY="72" width="128" height="150"/>
+        <element name="News" positionX="79" positionY="-198" width="128" height="210"/>
+        <element name="Restaurants" positionX="234" positionY="-204" width="128" height="240"/>
+    </elements>
+</model>

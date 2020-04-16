@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Auk (7.0.1):
+    - moa
+  - Cosmos (7.0.0)
+  - Firebase/Analytics (3.3.0):
+    - FirebaseAnalytics (= 3.2.1)
+  - Firebase/Core (3.3.0):
+    - Firebase/Analytics (= 3.3.0)
+  - FirebaseAnalytics (3.2.1):
+    - FirebaseInstanceID (~> 1.0)
+    - GoogleInterchangeUtilities (~> 1.2)
+    - GoogleSymbolUtilities (~> 1.1)
+    - GoogleUtilities (~> 1.3)
+  - FirebaseInstanceID (1.0.7)
+  - GoogleInterchangeUtilities (1.2.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.1.1)
+  - GoogleUtilities (1.3.1):
+    - GoogleSymbolUtilities (~> 1.0)
+  - moa (8.0.2)
+
+DEPENDENCIES:
+  - AlamofireImage (~> 3.1)
+  - Auk (~> 7.0)
+  - Cosmos (~> 7.0)
+  - Firebase/Core (~> 3.3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Auk: 6f8c4e93427d0d02641263776dd3b66ae4050903
+  Cosmos: 2c8299147138758f6ebbb247cf1aeed77998bdf9
+  Firebase: 6250071f0e2440a5c4c67b8cb6b868f868237ac3
+  FirebaseAnalytics: 0fd6532cb2c3d03cd5cf26ad295ccb091efd3104
+  FirebaseInstanceID: a9d923f3d0b6fbf9fac89310860357aaadc34be5
+  GoogleInterchangeUtilities: def8415a862effc67d549d5b5b0b9c7a2f97d4de
+  GoogleSymbolUtilities: 33117db1b5f290c6fbf259585e4885b4c84b98d7
+  GoogleUtilities: 56c5ac05b7aa5dc417a1bb85221a9516e04d7032
+  moa: 73d2dd56fe838a31e255c64b7873d2c2fbc71076
+
+PODFILE CHECKSUM: 085a695d6db422133ef1ab624fc038e30d6209a2
+
+COCOAPODS: 1.0.1
